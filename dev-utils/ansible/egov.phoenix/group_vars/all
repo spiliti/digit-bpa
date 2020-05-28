@@ -17,7 +17,7 @@ java_download_url: 'https://devops.egovernments.org/downloads/jdk'
 java_archive: 'jdk-{{java_version}}u{{java_subversion}}-linux-x64.tar.gz'
 
 #Postgres Version details
-postgresql_version: 9.4
+postgresql_version: 9.6
 postgresql_dbname: phoenix
 postgresql_dbuser: phoenix
 postgresql_dbpasswd: phoenix
